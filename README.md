@@ -1,6 +1,9 @@
 # SPIKE_communication
 Information what SPIKE uses to communicate
 
+If you are looking about sending commands to the hub:
+https://gist.github.com/bricklife/
+
 
 SPIKE Hub sends out a stream with informations
 
