@@ -45,6 +45,16 @@ Values:
 - down
 
 
+Heart-Program? m:7 (to be checked)
+==================
+{'m': 7, 'p': 'standalone_-btn-right-up'}
+
+Heart-Program? m:8 (to be checked)
+==================
+{'m': 8, 'p': 'standalone_-btn-right-up'}
+
+
+
 Variables m:11
 --------------
 One Variable:
@@ -55,6 +65,9 @@ Two Variable:
 
 Two Variable and one List:
 {'m': 11, 'p': ['JgoemqN7S87hsA55CTRZ', {'outputSingle': '9009203367698688500571251', 'mySingle': '9009203367698688500571251'}, {'allSingles': ['6833521043907758565864567', '3082044060851564630806410', '0331091476786632865496549', '7477258101353361152710961', '3754630264082759521617118', '7526857612387157675709618', '2646705638483885677481293', '4459723760751868459105357', '9009203367698688500571251']}, {}]}
+
+Heart-Program:
+{'m': 11, 'p': ['standalone', {}, {}, {}]}
 
 Notes:
 - list will be only send if program on the hub is started after the connection is established
