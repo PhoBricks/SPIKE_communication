@@ -62,16 +62,16 @@ Device Output-Values:
 =====================
 Used in Standard Mode m:0 ... PortA->PortF
 SimpleMotor (WeDo, Boost):
-ID,[SpeedValue]
+  ID,[SpeedValue]
 
 AdvancedMotor (SPIKE):
-ID,[ActualSpeed,ChangesofDegrees°,ActualPosition°,ForceToKeepSpeed]
+   ID,[ActualSpeed,ChangesofDegrees°,ActualPosition°,ForceToKeepSpeed]
 
 ID:
-1 WeDo Motor (10 Steps)
-38 Boost Motor (9 Steps)
-48 SPIKE middle Motor (Advanced Values)
-49 SPIKE Large Motor (Advanced Values)
+- 1 WeDo Motor (10 Steps)
+- 38 Boost Motor (9 Steps)
+- 48 SPIKE middle Motor (Advanced Values)
+- 49 SPIKE Large Motor (Advanced Values)
 
 SpeedValues: -100 <-> 100 (negative: counterclock/positive clockwise)
 
@@ -80,22 +80,23 @@ SpeedValues: -100 <-> 100 (negative: counterclock/positive clockwise)
 SUPPORTED Sensors:
 ==================
 Fully Supported:
-SPIKE ColorSensor
-SPIKE DistanceSensor
-SPIKE ForceSensor
-WeDo2.0 DistanceSensor
-WeDo2.0 Gyro
+- SPIKE ColorSensor
+- SPIKE DistanceSensor
+- SPIKE ForceSensor
+- WeDo2.0 DistanceSensor
+- WeDo2.0 Gyro
 
 Partly Supported:
-Boost Color/DistanceSensor only ColorSensor
+- Boost Color/DistanceSensor only ColorSensor
 
 
 SUPPORTED Motors:
 =================
-SPIKE MiddleMotor (Advanced)
-SPIKE LargeMotor (Advanced)
-WeDo2.0 Motor
-Boost Motor
+Fully Supported:
+- SPIKE MiddleMotor (Advanced)
+- SPIKE LargeMotor (Advanced)
+- WeDo2.0 Motor
+- Boost Motor
 
 
 
