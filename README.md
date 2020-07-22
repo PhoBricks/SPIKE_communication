@@ -71,6 +71,7 @@ Heart-Program:
 
 Notes:
 - list will be only send if program on the hub is started after the connection is established
+- the hub sends only the first 20 entries of a list
 - variables will be send always
 
 
