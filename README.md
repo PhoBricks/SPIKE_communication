@@ -25,9 +25,9 @@ Button m:3
 mode, p_data[whichButton,durationOfPressedINms]
 
 Values:
-leftside
-center
-rightside
+- leftside
+- center
+- rightside
 
 
 
