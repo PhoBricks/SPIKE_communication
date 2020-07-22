@@ -12,6 +12,8 @@ Standard m:0
 {"m":0,"p":[[0, []], [0, []], [0, []], [0, []], [0, []], [0, []], [-9, -4, 988], [-1, 5, 0], [-1, 0, 0], "09090:99999:99999:09990:00900", 0]}}
 mode, p_data[PortA[IDofDevice,[Values]],PortB[IDofDevice,[Values]],PortC[IDofDevice,[Values]],PortD[IDofDevice,[Values]],PortE[IDofDevice,[Values]],PortF[IDofDevice,[Values]], Acceleration[],Gyro[],Orientation[],DisplayedImage,ProgramRuntimerINms]
 
+Standard-Output is send out all 48ms
+
 Battery m:2
 -----------
 {'m': 2, 'p': [8.359999999999999, 100]}
@@ -46,8 +48,12 @@ down
 
 Variables m:11
 --------------
+One Variable:
 {'m': 11, 'p': ['JgoemqN7S87hsA55CTRZ', {'mySingle': '9468468361638296365367844'}, {}, {}]}
+Two Variable:
 {'m': 11, 'p': ['JgoemqN7S87hsA55CTRZ', {'outputSingle': '2139526830186527963198648', 'mySingle': '2139526830186527963198648'}, {}, {}]}
+Two Variable and one List:
+{'m': 11, 'p': ['JgoemqN7S87hsA55CTRZ', {'outputSingle': '9009203367698688500571251', 'mySingle': '9009203367698688500571251'}, {'allSingles': ['6833521043907758565864567', '3082044060851564630806410', '0331091476786632865496549', '7477258101353361152710961', '3754630264082759521617118', '7526857612387157675709618', '2646705638483885677481293', '4459723760751868459105357', '9009203367698688500571251']}, {}]}
 
 
 Device Output-Values:
