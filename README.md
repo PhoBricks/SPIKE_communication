@@ -4,6 +4,19 @@ Information what SPIKE uses to communicate
 If you are looking about sending commands to the hub:
 https://gist.github.com/bricklife/
 
+A very good explenation:
+https://github.com/maarten-pennings/Lego-Mindstorms
+
+Insides from the creators (Erik Mejer) found on FB:
+
+Erik Mejer Hansen
+Perhaps a bit more explanation is in order. We’ve tried designing a Python experience that is easy to get started with and works well with the app – that included creating a (hopefully) easy to get started with API. It is that API you get access to via the “spike” imports and it’s what gets imported in the default import. It’s that API that is documented in the app.
+There is a lower level API that gives you access to more functionality – but at the risk that it may not play well with the rest of the systems running on the hub. We haven’t released the API documentation for that (yet) but it’s there.
+So, when I wrote “drop down an API level” it because the “spike” API builds on top of the lower level API.
+I think for now the “easiest” way to play around with that is to look at the programs on the hub (alternatively: http://primelessons.org/lessons/MicroPythonIntro.pdf looks like a nice introduction).
+But be aware that using APIs at that level may have cause odd behavior in the app – just reboot your hub if that happens.
+And please reach out if you think the high-level API is missing something
+
 
 SPIKE Hub sends out a stream with informations
 
