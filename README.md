@@ -9,6 +9,8 @@ https://github.com/maarten-pennings/Lego-Mindstorms
 
 mindsensors.com github for spike prime: https://github.com/mindsensors/SPIKEPrime/blob/master/mindsensors.py
 
+Philo about protocol: https://www.philohome.com/wedo2reverse/protocol.htm
+
 Insides from the creators (Erik Mejer) found on FB:
 
 Erik Mejer Hansen
