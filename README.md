@@ -7,6 +7,8 @@ https://gist.github.com/bricklife/
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
 
+mindsensors.com github for spike prime: https://github.com/mindsensors/SPIKEPrime/blob/master/mindsensors.py
+
 Insides from the creators (Erik Mejer) found on FB:
 
 Erik Mejer Hansen
