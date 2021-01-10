@@ -11,6 +11,8 @@ mindsensors.com github for spike prime: https://github.com/mindsensors/SPIKEPrim
 
 Philo about protocol: https://www.philohome.com/wedo2reverse/protocol.htm
 
+Inf Flashcard: python-libs for other sensors: https://github.com/Tcm0/SPIKELibs
+
 Insides from the creators (Erik Mejer) found on FB:
 
 Erik Mejer Hansen
