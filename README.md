@@ -4,7 +4,7 @@ Information what SPIKE uses to communicate
 If you are looking about sending commands to the hub:
 https://gist.github.com/bricklife/
 
-Naard SPIKE Python: https://hubmodule.readthedocs.io/en/
+Naard SPIKE Python: https://hubmodule.readthedocs.io/en/latest
 
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
