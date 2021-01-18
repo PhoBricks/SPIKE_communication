@@ -4,7 +4,7 @@ Information what SPIKE uses to communicate
 If you are looking about sending commands to the hub:
 https://gist.github.com/bricklife/
 
-Naard SPIKE Python: https://hubmodule.readthedocs.io/en/latest
+Nard SPIKE Python: https://hubmodule.readthedocs.io/en/latest
 
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
@@ -13,7 +13,9 @@ mindsensors.com github for spike prime: https://github.com/mindsensors/SPIKEPrim
 
 Philo about protocol: https://www.philohome.com/wedo2reverse/protocol.htm
 
-Inf Flashcard: python-libs for other sensors: https://github.com/Tcm0/SPIKELibs
+Inf Flashcard:
+- Video demonstration: https://www.youtube.com/watch?v=fiR3XJYo9k4
+- Library + examples: https://github.com/Tcm0/SPIKELibs
 
 Insides from the creators (Erik Mejer) found on FB:
 
