@@ -8,6 +8,7 @@ Nard SPIKE Python: https://hubmodule.readthedocs.io/en/latest
 
 Nard hub2hub-reverse engineering: https://github.com/NStrijbosch/RevEng-hub2hub-word-blocks
 Tool crc32: https://emn178.github.io/online-tools/crc32.html
+https://github.com/Lechatroger/nodes_microbit_BLE_services
 
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
