@@ -6,6 +6,8 @@ https://gist.github.com/bricklife/
 
 Nard SPIKE Python: https://hubmodule.readthedocs.io/en/latest
 
+Nard hub2hub-reverse engineering: https://github.com/NStrijbosch/RevEng-hub2hub-word-blocks
+
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
 
