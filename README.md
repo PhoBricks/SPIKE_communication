@@ -11,6 +11,8 @@ Nard hub2hub-reverse engineering: https://github.com/NStrijbosch/RevEng-hub2hub-
 A very good explenation:
 https://github.com/maarten-pennings/Lego-Mindstorms
 
+LEGO LWP: https://lego.github.io/lego-ble-wireless-protocol-docs/
+
 mindsensors.com github for spike prime: https://github.com/mindsensors/SPIKEPrime/blob/master/mindsensors.py
 
 Philo about protocol: https://www.philohome.com/wedo2reverse/protocol.htm
