@@ -121,6 +121,7 @@ ID:
 - 38 Boost Motor (9 Steps)
 - 48 SPIKE middle Motor (Advanced Values)
 - 49 SPIKE Large Motor (Advanced Values)
+- 64 SPIKE Small Motor (Advanced Values)
 
 SpeedValues: -100 <-> 100 (negative: counterclock/positive clockwise)
 
@@ -142,6 +143,7 @@ Partly Supported:
 SUPPORTED Motors:
 =================
 Fully Supported:
+- SPIKE SmallMotor (Advanced)
 - SPIKE MiddleMotor (Advanced)
 - SPIKE LargeMotor (Advanced)
 - WeDo2.0 Motor
