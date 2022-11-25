@@ -1,3 +1,11 @@
+SPIKE 3:
+
+Chris Rogers: https://github.com/chrisbuerginrogers/ME35_21
+
+Webfrontend: https://pyrepl.web.app/
+
+
+
 # SPIKE_communication
 Information what SPIKE uses to communicate
 
